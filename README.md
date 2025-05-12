@@ -15,4 +15,12 @@ taking task
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codevamshi000/leetCode/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/codevamshi000/leetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/codevamshi000/leetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

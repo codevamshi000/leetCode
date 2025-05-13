@@ -12,6 +12,7 @@ taking task
 | ------- |
 | [0001-two-sum](https://github.com/codevamshi000/leetCode/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/codevamshi000/leetCode/tree/master/0238-product-of-array-except-self) |
+| [0643-maximum-average-subarray-i](https://github.com/codevamshi000/leetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@ taking task
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/codevamshi000/leetCode/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/codevamshi000/leetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

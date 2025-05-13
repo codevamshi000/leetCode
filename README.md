@@ -28,6 +28,7 @@ taking task
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
 | ------- |
@@ -36,4 +37,12 @@ taking task
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

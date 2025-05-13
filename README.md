@@ -27,6 +27,7 @@ taking task
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
 ## Queue
@@ -40,6 +41,7 @@ taking task
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |

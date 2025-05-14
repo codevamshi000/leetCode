@@ -7,6 +7,7 @@ taking task
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/codevamshi000/leetCode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/codevamshi000/leetCode/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
@@ -17,6 +18,7 @@ taking task
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codevamshi000/leetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/codevamshi000/leetCode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
@@ -44,6 +46,7 @@ taking task
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/codevamshi000/leetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |

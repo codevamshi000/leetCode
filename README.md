@@ -13,6 +13,7 @@ taking task
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codevamshi000/leetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/codevamshi000/leetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/codevamshi000/leetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/codevamshi000/leetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/codevamshi000/leetCode/tree/master/0238-product-of-array-except-self) |
@@ -57,6 +58,7 @@ taking task
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/codevamshi000/leetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/codevamshi000/leetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/codevamshi000/leetCode/tree/master/0189-rotate-array) |
@@ -95,4 +97,8 @@ taking task
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/codevamshi000/leetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

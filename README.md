@@ -17,6 +17,7 @@ taking task
 | [0075-sort-colors](https://github.com/codevamshi000/leetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/codevamshi000/leetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/codevamshi000/leetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/codevamshi000/leetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/codevamshi000/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1319-unique-number-of-occurrences](https://github.com/codevamshi000/leetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -64,6 +65,7 @@ taking task
 | [0151-reverse-words-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/codevamshi000/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/codevamshi000/leetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/codevamshi000/leetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |

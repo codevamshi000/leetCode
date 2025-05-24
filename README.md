@@ -14,6 +14,7 @@ taking task
 | ------- |
 | [0001-two-sum](https://github.com/codevamshi000/leetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/codevamshi000/leetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/codevamshi000/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/codevamshi000/leetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/codevamshi000/leetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/codevamshi000/leetCode/tree/master/0238-product-of-array-except-self) |
@@ -61,6 +62,7 @@ taking task
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codevamshi000/leetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/codevamshi000/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/codevamshi000/leetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/codevamshi000/leetCode/tree/master/0189-rotate-array) |

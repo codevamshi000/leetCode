@@ -15,6 +15,7 @@ taking task
 | [0001-two-sum](https://github.com/codevamshi000/leetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/codevamshi000/leetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codevamshi000/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/codevamshi000/leetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/codevamshi000/leetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/codevamshi000/leetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/codevamshi000/leetCode/tree/master/0189-rotate-array) |
@@ -126,4 +127,8 @@ taking task
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0032-longest-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/codevamshi000/leetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

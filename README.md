@@ -62,6 +62,7 @@ taking task
 | [0003-longest-substring-without-repeating-characters](https://github.com/codevamshi000/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/codevamshi000/leetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/codevamshi000/leetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/codevamshi000/leetCode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -83,6 +84,7 @@ taking task
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codevamshi000/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codevamshi000/leetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/codevamshi000/leetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/codevamshi000/leetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/codevamshi000/leetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codevamshi000/leetCode/tree/master/0160-intersection-of-two-linked-lists) |

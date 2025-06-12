@@ -20,6 +20,7 @@ taking task
 | [0049-group-anagrams](https://github.com/codevamshi000/leetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/codevamshi000/leetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codevamshi000/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/codevamshi000/leetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/codevamshi000/leetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/codevamshi000/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/codevamshi000/leetCode/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@ taking task
 | [0049-group-anagrams](https://github.com/codevamshi000/leetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/codevamshi000/leetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codevamshi000/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/codevamshi000/leetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/codevamshi000/leetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/codevamshi000/leetCode/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
@@ -76,6 +78,7 @@ taking task
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/codevamshi000/leetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
@@ -114,12 +117,14 @@ taking task
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/codevamshi000/leetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/codevamshi000/leetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/codevamshi000/leetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/codevamshi000/leetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |

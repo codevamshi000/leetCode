@@ -11,6 +11,6 @@ class Solution {
                 point--;
             }
         }
-        return can;
+        return can;  
     }
 }

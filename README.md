@@ -63,6 +63,7 @@ taking task
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codevamshi000/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/codevamshi000/leetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/codevamshi000/leetCode/tree/master/0125-valid-palindrome) |
@@ -145,6 +146,7 @@ taking task
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/codevamshi000/leetCode/tree/master/0234-palindrome-linked-list) |
 ## Binary Search

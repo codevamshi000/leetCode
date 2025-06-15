@@ -14,5 +14,8 @@ class Solution {
                 return false;
         }
         return stack.isEmpty();// we have to return the empty stack
+        //This is important because after processing
+        // all characters, the string is valid only if the stack is empty 
+        //(i.e., all opening brackets had matching closings).
     }
 }

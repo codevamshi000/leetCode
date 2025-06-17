@@ -25,6 +25,7 @@ taking task
 | [0238-product-of-array-except-self](https://github.com/codevamshi000/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/codevamshi000/leetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/codevamshi000/leetCode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/codevamshi000/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1319-unique-number-of-occurrences](https://github.com/codevamshi000/leetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/codevamshi000/leetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -41,6 +42,7 @@ taking task
 | [0205-isomorphic-strings](https://github.com/codevamshi000/leetCode/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/codevamshi000/leetCode/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/codevamshi000/leetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/codevamshi000/leetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Linked List
@@ -152,6 +154,7 @@ taking task
 | [0155-min-stack](https://github.com/codevamshi000/leetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/codevamshi000/leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/codevamshi000/leetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/codevamshi000/leetCode/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,4 +164,8 @@ taking task
 | ------- |
 | [0155-min-stack](https://github.com/codevamshi000/leetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/codevamshi000/leetCode/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/codevamshi000/leetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

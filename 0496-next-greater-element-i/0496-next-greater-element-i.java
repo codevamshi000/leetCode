@@ -3,11 +3,11 @@ class Solution {
           if (nums2.length == 0 || nums1.length == 0)
             return new int[0];
 
-        Map<Integer, Integer> NGE = new HashMap<>();
-        Stack<Integer> numStack = new Stack<>();
+        Map<Integer, Integer> NGE = new HashMap<>();//to store Next Great Ele
+        Stack<Integer> numStack = new Stack<>();//to return most recent ele
 
         for (int i = nums2.length - 1; i >= 0; i--) {
-            int ele = nums2[i];
+            int ele = nums2[i];//looping nums2 from end
 
             // Pop all elements smaller than or equal to current
             while (!numStack.isEmpty() && numStack.peek() <= ele) {
@@ -16,9 +16,9 @@ class Solution {
 
             // If stack is empty, no greater element
             if (numStack.isEmpty()) {
-                NGE.put(ele, -1);
+                NGE.put(ele, -1);//return -1 if epty
             } else {
-                NGE.put(ele, numStack.peek());
+                NGE.put(ele, numStack.peek());//if not empty put the top ele
             }
 
             // Push current element to stack

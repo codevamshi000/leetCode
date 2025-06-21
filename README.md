@@ -171,4 +171,8 @@ taking task
 | ------- |
 | [0496-next-greater-element-i](https://github.com/codevamshi000/leetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/codevamshi000/leetCode/tree/master/0739-daily-temperatures) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/codevamshi000/leetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

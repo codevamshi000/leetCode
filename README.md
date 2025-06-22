@@ -7,6 +7,7 @@ taking task
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/codevamshi000/leetCode/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/codevamshi000/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/codevamshi000/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/codevamshi000/leetCode/tree/master/0202-happy-number) |
 ## Array
@@ -20,6 +21,7 @@ taking task
 | [0049-group-anagrams](https://github.com/codevamshi000/leetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/codevamshi000/leetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codevamshi000/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/codevamshi000/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/codevamshi000/leetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/codevamshi000/leetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/codevamshi000/leetCode/tree/master/0238-product-of-array-except-self) |
@@ -153,6 +155,7 @@ taking task
 | ------- |
 | [0020-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/codevamshi000/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/codevamshi000/leetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/codevamshi000/leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/codevamshi000/leetCode/tree/master/0234-palindrome-linked-list) |

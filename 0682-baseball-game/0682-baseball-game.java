@@ -3,30 +3,25 @@ class Solution {
         Stack<Integer> stack = new Stack<>();
 
         for (String op : operations) {
-            switch (op) {
-                case "C":
-                    stack.pop(); // Remove last score
-                    break;
-                case "D":
-                    stack.push(stack.peek() * 2); // Double last score
-                    break;
-                case "+":
-                    int last = stack.pop();
-                    int secondLast = stack.peek();
-                    int sum = last + secondLast;
-                    stack.push(last); // push back last
-                    stack.push(sum);  // push sum of last 2
-                    break;
-                default:
-                    stack.push(Integer.parseInt(op)); // Add new score
+            if (op.equals("C")) {
+                stack.pop(); // Remove last valid score
+            } else if (op.equals("D")) {
+                stack.push(stack.peek() * 2); // Double last valid score
+            } else if (op.equals("+")) {
+                int top = stack.pop();
+                int newTop = top + stack.peek();
+                stack.push(top);       // Push the first back
+                stack.push(newTop);    // Push the sum
+            } else {
+                stack.push(Integer.parseInt(op)); // Normal score
             }
         }
 
-        int total = 0;
+        int totalScore = 0;
         for (int score : stack) {
-            total += score;
+            totalScore += score;
         }
 
-        return total;
+        return totalScore;
     }
 }

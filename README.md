@@ -27,6 +27,7 @@ taking task
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/codevamshi000/leetCode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/codevamshi000/leetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/codevamshi000/leetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/codevamshi000/leetCode/tree/master/0739-daily-temperatures) |
 | [1319-unique-number-of-occurrences](https://github.com/codevamshi000/leetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/codevamshi000/leetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -156,6 +157,7 @@ taking task
 | [0225-implement-stack-using-queues](https://github.com/codevamshi000/leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/codevamshi000/leetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/codevamshi000/leetCode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/codevamshi000/leetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/codevamshi000/leetCode/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
@@ -175,4 +177,8 @@ taking task
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/codevamshi000/leetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/codevamshi000/leetCode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->

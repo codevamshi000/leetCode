@@ -78,6 +78,7 @@ taking task
 | [0205-isomorphic-strings](https://github.com/codevamshi000/leetCode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/codevamshi000/leetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codevamshi000/leetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Queue
 |  |
@@ -164,6 +165,7 @@ taking task
 | [0682-baseball-game](https://github.com/codevamshi000/leetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/codevamshi000/leetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/codevamshi000/leetCode/tree/master/0739-daily-temperatures) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/codevamshi000/leetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
 | ------- |

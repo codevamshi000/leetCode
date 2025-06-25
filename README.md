@@ -167,6 +167,7 @@ taking task
 | [0682-baseball-game](https://github.com/codevamshi000/leetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/codevamshi000/leetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/codevamshi000/leetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/codevamshi000/leetCode/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/codevamshi000/leetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
@@ -177,11 +178,13 @@ taking task
 | ------- |
 | [0155-min-stack](https://github.com/codevamshi000/leetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/codevamshi000/leetCode/tree/master/0225-implement-stack-using-queues) |
+| [0937-online-stock-span](https://github.com/codevamshi000/leetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/codevamshi000/leetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/codevamshi000/leetCode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/codevamshi000/leetCode/tree/master/0937-online-stock-span) |
 ## Database
 |  |
 | ------- |
@@ -191,4 +194,8 @@ taking task
 | ------- |
 | [0682-baseball-game](https://github.com/codevamshi000/leetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/codevamshi000/leetCode/tree/master/0735-asteroid-collision) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/codevamshi000/leetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->

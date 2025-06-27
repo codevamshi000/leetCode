@@ -190,6 +190,7 @@ taking task
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/codevamshi000/leetCode/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/codevamshi000/leetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Simulation
 |  |

@@ -82,6 +82,7 @@ taking task
 | [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/codevamshi000/leetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codevamshi000/leetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3617-find-the-original-typed-string-i](https://github.com/codevamshi000/leetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Queue
 |  |
 | ------- |

@@ -1,10 +1,10 @@
 class MyQueue {
-        private Stack<Integer>stack1;
+        private Stack<Integer>stack1; //mentioned as 2 STACKS in question
         private Stack<Integer>stack2;
 
     public MyQueue() {
-        stack1=new Stack<>();
-        stack2=new Stack<>();
+        stack1=new Stack<>();//for enqueue(push)
+        stack2=new Stack<>();//for dequeue(pop & peek)
     }
     
     public void push(int x) {

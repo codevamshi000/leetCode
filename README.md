@@ -83,6 +83,7 @@ taking task
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/codevamshi000/leetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codevamshi000/leetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3617-find-the-original-typed-string-i](https://github.com/codevamshi000/leetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/codevamshi000/leetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Queue
 |  |
 | ------- |
@@ -118,10 +119,12 @@ taking task
 | [0032-longest-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codevamshi000/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
+| [3618-find-the-original-typed-string-ii](https://github.com/codevamshi000/leetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/codevamshi000/leetCode/tree/master/0238-product-of-array-except-self) |
+| [3618-find-the-original-typed-string-ii](https://github.com/codevamshi000/leetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
 |  |
 | ------- |

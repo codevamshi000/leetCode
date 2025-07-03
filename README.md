@@ -10,6 +10,7 @@ taking task
 | [0150-evaluate-reverse-polish-notation](https://github.com/codevamshi000/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/codevamshi000/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/codevamshi000/leetCode/tree/master/0202-happy-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/codevamshi000/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@ taking task
 | [0021-merge-two-sorted-lists](https://github.com/codevamshi000/leetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/codevamshi000/leetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/codevamshi000/leetCode/tree/master/0234-palindrome-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/codevamshi000/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -210,9 +212,14 @@ taking task
 | ------- |
 | [0682-baseball-game](https://github.com/codevamshi000/leetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/codevamshi000/leetCode/tree/master/0735-asteroid-collision) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/codevamshi000/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/codevamshi000/leetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/codevamshi000/leetCode/tree/master/0969-number-of-recent-calls) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/codevamshi000/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->

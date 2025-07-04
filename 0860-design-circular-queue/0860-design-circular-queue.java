@@ -1,4 +1,4 @@
-class MyCircularQueue {
+class MyCircularQueue { //look in DSA-2 noteBook
 //add class variables
 private int[]queue;   // array to hold queue elements
 private int front;      // index of the front element
@@ -14,18 +14,18 @@ private int size;       // current number of elements
     }
     
     public boolean enQueue(int value) {
-       if(isFull())return false;
+       if(isFull())return false;//cant insert if full
     
-       rear=(rear+1)% queue.length;
-        queue[rear]=value;
-    size++;
-    return true;
+       rear=(rear+1)% queue.length;//move rear to next position(circular)
+        queue[rear]=value;//insert value
+        size++;
+    return true;//bcoz its boolean
     }
     
     public boolean deQueue() {
-        if(isEmpty()) return false;
-        front=(front+1)%queue.length;
-        size--;
+        if(isEmpty()) return false; //can't remove if empty
+        front=(front+1)%queue.length; //move front forward(circular)
+        size--;//decrease size
         return true;
     }
     

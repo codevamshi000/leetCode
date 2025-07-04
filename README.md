@@ -33,6 +33,7 @@ taking task
 | [0682-baseball-game](https://github.com/codevamshi000/leetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/codevamshi000/leetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/codevamshi000/leetCode/tree/master/0739-daily-temperatures) |
+| [0860-design-circular-queue](https://github.com/codevamshi000/leetCode/tree/master/0860-design-circular-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/codevamshi000/leetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/codevamshi000/leetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/codevamshi000/leetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -61,6 +62,7 @@ taking task
 | [0160-intersection-of-two-linked-lists](https://github.com/codevamshi000/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/codevamshi000/leetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/codevamshi000/leetCode/tree/master/0234-palindrome-linked-list) |
+| [0860-design-circular-queue](https://github.com/codevamshi000/leetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/codevamshi000/leetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -92,6 +94,7 @@ taking task
 | [0225-implement-stack-using-queues](https://github.com/codevamshi000/leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/codevamshi000/leetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/codevamshi000/leetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/codevamshi000/leetCode/tree/master/0969-number-of-recent-calls) |
 ## Counting
 |  |
@@ -190,6 +193,7 @@ taking task
 | [0155-min-stack](https://github.com/codevamshi000/leetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/codevamshi000/leetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/codevamshi000/leetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/codevamshi000/leetCode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/codevamshi000/leetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/codevamshi000/leetCode/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Stack

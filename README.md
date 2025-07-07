@@ -38,6 +38,7 @@ taking task
 | [0860-design-circular-queue](https://github.com/codevamshi000/leetCode/tree/master/0860-design-circular-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/codevamshi000/leetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/codevamshi000/leetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/codevamshi000/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/codevamshi000/leetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/codevamshi000/leetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/codevamshi000/leetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -159,11 +160,13 @@ taking task
 | [0075-sort-colors](https://github.com/codevamshi000/leetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/codevamshi000/leetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/codevamshi000/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/codevamshi000/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/codevamshi000/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -176,6 +179,7 @@ taking task
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codevamshi000/leetCode/tree/master/0011-container-with-most-water) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/codevamshi000/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Stack
 |  |
 | ------- |

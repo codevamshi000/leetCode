@@ -40,6 +40,7 @@ taking task
 | [1392-find-the-difference-of-two-arrays](https://github.com/codevamshi000/leetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/codevamshi000/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/codevamshi000/leetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/codevamshi000/leetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/codevamshi000/leetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/codevamshi000/leetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Hash Table
@@ -135,6 +136,7 @@ taking task
 | [0032-longest-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codevamshi000/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/codevamshi000/leetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/codevamshi000/leetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
@@ -161,6 +163,7 @@ taking task
 | [0169-majority-element](https://github.com/codevamshi000/leetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/codevamshi000/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/codevamshi000/leetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -201,6 +204,7 @@ taking task
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/codevamshi000/leetCode/tree/master/0035-search-insert-position) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/codevamshi000/leetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/codevamshi000/leetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Design
 |  |

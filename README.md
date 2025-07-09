@@ -43,6 +43,7 @@ taking task
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/codevamshi000/leetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/codevamshi000/leetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/codevamshi000/leetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/codevamshi000/leetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ taking task
 | [0239-sliding-window-maximum](https://github.com/codevamshi000/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/codevamshi000/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codevamshi000/leetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/codevamshi000/leetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,6 +185,7 @@ taking task
 | ------- |
 | [0011-container-with-most-water](https://github.com/codevamshi000/leetCode/tree/master/0011-container-with-most-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/codevamshi000/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/codevamshi000/leetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Stack
 |  |
 | ------- |

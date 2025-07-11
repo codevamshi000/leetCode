@@ -1,7 +1,7 @@
 class Solution {
     public int sumSubarrayMins(int[] arr) {
         int n = arr.length;
-        int MOD = 1_000_000_007;
+        int MOD = 1_000_000_007;//since ans may be large return in MOD(given in ques)
         long result = 0;
 
         // Arrays to store Previous Less Element (PLE) and Next Less Element (NLE) distances
@@ -33,8 +33,9 @@ class Solution {
 
         // Step 3: Compute result
         for (int i = 0; i < n; i++) {
+            //we use long bcoz this primitive type can store large int
             long contribution = (long) arr[i] * left[i] * right[i];
-            result = (result + contribution) % MOD;
+            result = (result + contribution) % MOD;//to avoid INT flow coz we dealing with large num
         }
 
         return (int) result;

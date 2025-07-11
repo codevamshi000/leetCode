@@ -36,6 +36,7 @@ taking task
 | [0735-asteroid-collision](https://github.com/codevamshi000/leetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/codevamshi000/leetCode/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/codevamshi000/leetCode/tree/master/0860-design-circular-queue) |
+| [0943-sum-of-subarray-minimums](https://github.com/codevamshi000/leetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1319-unique-number-of-occurrences](https://github.com/codevamshi000/leetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/codevamshi000/leetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/codevamshi000/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -138,6 +139,7 @@ taking task
 | [0032-longest-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codevamshi000/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
+| [0943-sum-of-subarray-minimums](https://github.com/codevamshi000/leetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/codevamshi000/leetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/codevamshi000/leetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
@@ -204,6 +206,7 @@ taking task
 | [0735-asteroid-collision](https://github.com/codevamshi000/leetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/codevamshi000/leetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/codevamshi000/leetCode/tree/master/0937-online-stock-span) |
+| [0943-sum-of-subarray-minimums](https://github.com/codevamshi000/leetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/codevamshi000/leetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
@@ -227,6 +230,7 @@ taking task
 | [0496-next-greater-element-i](https://github.com/codevamshi000/leetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/codevamshi000/leetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/codevamshi000/leetCode/tree/master/0937-online-stock-span) |
+| [0943-sum-of-subarray-minimums](https://github.com/codevamshi000/leetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Database
 |  |
 | ------- |

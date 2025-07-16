@@ -38,6 +38,7 @@ taking task
 | [0860-design-circular-queue](https://github.com/codevamshi000/leetCode/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/codevamshi000/leetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0943-sum-of-subarray-minimums](https://github.com/codevamshi000/leetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/codevamshi000/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/codevamshi000/leetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/codevamshi000/leetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/codevamshi000/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -271,4 +272,12 @@ taking task
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/codevamshi000/leetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/codevamshi000/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/codevamshi000/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->

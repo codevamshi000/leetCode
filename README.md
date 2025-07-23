@@ -31,6 +31,7 @@ taking task
 | [0283-move-zeroes](https://github.com/codevamshi000/leetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/codevamshi000/leetCode/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/codevamshi000/leetCode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/codevamshi000/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/codevamshi000/leetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/codevamshi000/leetCode/tree/master/0735-asteroid-collision) |
@@ -142,6 +143,7 @@ taking task
 | [0032-longest-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codevamshi000/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/codevamshi000/leetCode/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/codevamshi000/leetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/codevamshi000/leetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/codevamshi000/leetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -275,9 +277,11 @@ taking task
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/codevamshi000/leetCode/tree/master/0542-01-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codevamshi000/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/codevamshi000/leetCode/tree/master/0542-01-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codevamshi000/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->

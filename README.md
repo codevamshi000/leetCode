@@ -39,6 +39,7 @@ taking task
 | [0860-design-circular-queue](https://github.com/codevamshi000/leetCode/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/codevamshi000/leetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0943-sum-of-subarray-minimums](https://github.com/codevamshi000/leetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1036-rotting-oranges](https://github.com/codevamshi000/leetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codevamshi000/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/codevamshi000/leetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/codevamshi000/leetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -278,10 +279,12 @@ taking task
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/codevamshi000/leetCode/tree/master/0542-01-matrix) |
+| [1036-rotting-oranges](https://github.com/codevamshi000/leetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codevamshi000/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/codevamshi000/leetCode/tree/master/0542-01-matrix) |
+| [1036-rotting-oranges](https://github.com/codevamshi000/leetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codevamshi000/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->

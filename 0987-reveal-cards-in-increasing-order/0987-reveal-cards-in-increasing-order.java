@@ -20,7 +20,8 @@ class Solution {
         int[] result = new int[deck.length];
         int i = 0;
         for (int card : queue) {
-            result[i++] = card;
+            result[i] = card;
+            i++;
         }
 
         return result;

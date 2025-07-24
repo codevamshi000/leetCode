@@ -9,7 +9,7 @@ class Solution {
         for (int i = deck.length - 1; i >= 0; i--) {
             if (!queue.isEmpty()) {
                 // Move last to front (reverse of putting second card at bottom)
-                queue.addFirst(queue.removeLast());
+                queue.addFirst(queue.pollLast());
             }
 
             // Add current card to front

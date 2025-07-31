@@ -208,6 +208,7 @@ taking task
 | [0020-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/codevamshi000/leetCode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/codevamshi000/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codevamshi000/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/codevamshi000/leetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/codevamshi000/leetCode/tree/master/0225-implement-stack-using-queues) |
@@ -291,4 +292,16 @@ taking task
 | [0542-01-matrix](https://github.com/codevamshi000/leetCode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/codevamshi000/leetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codevamshi000/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codevamshi000/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codevamshi000/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/codevamshi000/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

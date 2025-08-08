@@ -227,6 +227,7 @@ taking task
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/codevamshi000/leetCode/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/codevamshi000/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/codevamshi000/leetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/codevamshi000/leetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/codevamshi000/leetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -271,6 +272,7 @@ taking task
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/codevamshi000/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/codevamshi000/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/codevamshi000/leetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Monotonic Queue
@@ -301,6 +303,7 @@ taking task
 | [0094-binary-tree-inorder-traversal](https://github.com/codevamshi000/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/codevamshi000/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/codevamshi000/leetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/codevamshi000/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codevamshi000/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -315,5 +318,6 @@ taking task
 | [0094-binary-tree-inorder-traversal](https://github.com/codevamshi000/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/codevamshi000/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/codevamshi000/leetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/codevamshi000/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codevamshi000/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->

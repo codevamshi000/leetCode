@@ -305,6 +305,7 @@ taking task
 | [0145-binary-tree-postorder-traversal](https://github.com/codevamshi000/leetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/codevamshi000/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codevamshi000/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/codevamshi000/leetCode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -312,6 +313,7 @@ taking task
 | [0144-binary-tree-preorder-traversal](https://github.com/codevamshi000/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/codevamshi000/leetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codevamshi000/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/codevamshi000/leetCode/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,4 +322,5 @@ taking task
 | [0145-binary-tree-postorder-traversal](https://github.com/codevamshi000/leetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/codevamshi000/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/codevamshi000/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/codevamshi000/leetCode/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->

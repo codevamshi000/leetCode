@@ -16,10 +16,14 @@
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
         if(root==null)
-           return null;
+           return null;//not found
         if(root.val==val)
-           return root;
+           return root;// found, return subtree root
+  
+//If the target val is smaller than the current node’s value,
+//because it’s a BST all smaller values must be in the left subtree.
 
+//less to high from left to right
         if(val<root.val) 
             return searchBST(root.left,val);
         else 

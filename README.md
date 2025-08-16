@@ -7,6 +7,7 @@ taking task
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/codevamshi000/leetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/codevamshi000/leetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codevamshi000/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/codevamshi000/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/codevamshi000/leetCode/tree/master/0202-happy-number) |
@@ -144,6 +145,7 @@ taking task
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/codevamshi000/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/codevamshi000/leetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codevamshi000/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/codevamshi000/leetCode/tree/master/0542-01-matrix) |
@@ -332,4 +334,8 @@ taking task
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/codevamshi000/leetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/codevamshi000/leetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/codevamshi000/leetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

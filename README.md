@@ -30,6 +30,7 @@ taking task
 | [0169-majority-element](https://github.com/codevamshi000/leetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/codevamshi000/leetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/codevamshi000/leetCode/tree/master/0198-house-robber) |
+| [0229-majority-element-ii](https://github.com/codevamshi000/leetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/codevamshi000/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/codevamshi000/leetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/codevamshi000/leetCode/tree/master/0283-move-zeroes) |
@@ -66,6 +67,7 @@ taking task
 | [0169-majority-element](https://github.com/codevamshi000/leetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/codevamshi000/leetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/codevamshi000/leetCode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/codevamshi000/leetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/codevamshi000/leetCode/tree/master/0496-next-greater-element-i) |
@@ -124,6 +126,7 @@ taking task
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/codevamshi000/leetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/codevamshi000/leetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/codevamshi000/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/codevamshi000/leetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -182,6 +185,7 @@ taking task
 | [0049-group-anagrams](https://github.com/codevamshi000/leetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/codevamshi000/leetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/codevamshi000/leetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/codevamshi000/leetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/codevamshi000/leetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/codevamshi000/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |

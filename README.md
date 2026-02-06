@@ -45,6 +45,7 @@ taking task
 | [0860-design-circular-queue](https://github.com/codevamshi000/leetCode/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/codevamshi000/leetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0943-sum-of-subarray-minimums](https://github.com/codevamshi000/leetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0977-squares-of-a-sorted-array](https://github.com/codevamshi000/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/codevamshi000/leetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1036-rotting-oranges](https://github.com/codevamshi000/leetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/codevamshi000/leetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -149,6 +150,7 @@ taking task
 | [0283-move-zeroes](https://github.com/codevamshi000/leetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/codevamshi000/leetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/codevamshi000/leetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/codevamshi000/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,6 +192,7 @@ taking task
 | [0169-majority-element](https://github.com/codevamshi000/leetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/codevamshi000/leetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/codevamshi000/leetCode/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/codevamshi000/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/codevamshi000/leetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/codevamshi000/leetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/codevamshi000/leetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
